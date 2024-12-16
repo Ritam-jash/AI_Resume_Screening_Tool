@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="text-center">
+    <h1 class="mt-4">Welcome to the Resume Screening Tool</h1>
+    <p class="mt-3">Upload resumes and analyze them against job descriptions for better hiring decisions!</p>
+    <nav class="mt-4">
+        <a href="{{ url_for('main.upload') }}" class="btn btn-primary me-2">Upload Resume</a>
+        <a href="{{ url_for('main.results') }}" class="btn btn-secondary">View Results</a>
+    </nav>
+</div>
+{% endblock %}
