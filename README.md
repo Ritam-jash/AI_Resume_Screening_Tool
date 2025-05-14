@@ -191,12 +191,6 @@ For any questions or issues, feel free to reach out to me via LinkedIn: [https:/
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
 ### Notes:
 - You can update sections like contact info, technologies used, etc., based on your personal information.
 - The steps mentioned in the **How to Use** section are intended to guide users on how to interact with the application.#
